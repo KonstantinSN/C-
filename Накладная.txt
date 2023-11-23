@@ -1,0 +1,50 @@
+<html>
+<head><title>Test</title></head>
+<body>
+<h2><p align="center">Накладная №_____</p></h2>
+<table border=1 cellpadding=1 cellspacing=0 width=950 color=#ffffff>
+1
+<tr>
+<td width=100 height=10 valign=top>Акмолинский ОФ</td>
+<td>test</td>
+</tr>
+2
+<tr>
+<td width=100 height=10 valign=top>г. Державинск</td>
+<td> </td>
+</tr>
+3
+<tr>
+<td width=100 height=10 valign=top>7987</td>
+<td></td>
+</tr>
+4
+<tr>
+<td width=100 height=10 valign=top>Сивоха К.Н.</td>
+<td> </td>
+</tr>
+</table>
+<br>
+<table border=1 cellpadding=1 cellspacing=0 width=950 color=black>
+<tr>
+<td width=133 height=10 valign=center><h5><p align="center">Наименование почтового отправления</p></h5></td>
+<td width=119 height=10 valign=top><h5><p align="center">Номер</p></h5></td>
+<td width=100><h5><p align="center">Ценность</p></h5></td>
+<td width=60 height=10 valign=top><h5><p align="center">Вес</p></h5></td>
+<td width=200 height=10 valign=top><h5><p align="center">Откуда</p></h5></td>
+<td width=50 height=10 valign=top><h5><p align="center">Особые отметки</p></h5></td>
+</tr>
+<tr>
+<td></td>
+<td> Номер</td>
+<td> Ценность</td>
+<td> Вес</td>
+<td> Откуда</td>
+<td> -</td>
+</tr>
+</table>
+<br>
+Итого: 1
+<br>
+Оператор:  Сивоха К.Н.
+</body> </html>
